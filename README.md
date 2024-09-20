@@ -1,4 +1,4 @@
-## Credit Card Transaction Analysis using SQL 💳📊
+# Credit Card Transaction Analysis using SQL 💳📊
 
 This repository provides a comprehensive **SQL-based analysis** of consumer credit card transactions. This project aims to offer **actionable insights** into consumer **spending behavior**, **repayment patterns**, and overall financial trends using real-world data. By leveraging SQL queries, we can explore key customer metrics such as **average credit limits**, **popular spending categories**, and **repayment behaviors**.  
 
@@ -120,7 +120,7 @@ This project answers several critical questions through SQL queries. Some key an
    GROUP BY customer_id;
    ```
 
-These queries provide insights into how customers spend, their repayment patterns, and their credit limits. For the full list of SQL queries used in this project, refer to the [`analysis.sql`](analysis/analysis.sql) file.
+These queries provide insights into how customers spend, their repayment patterns, and their credit limits. For the full list of SQL queries used in this project, refer to the [`analysis.sql`](https://github.com/virajbhutada/Credit-Card-Transaction-Analysis-SQL/blob/main/scripts/analysis.sql) file.
 
 ---
 
@@ -138,7 +138,7 @@ These insights are vital for **customer segmentation**, **risk management**, and
 
 ---
 
-## 📈 **Conclusion**
+## 📝 **Conclusion**
 
 The **Credit Card Transaction Analysis** project provides a comprehensive view of customer **spending patterns**, **repayment behaviors**, and **credit usage**. The data-driven insights derived from this analysis enable financial institutions to make **informed decisions** about customer segmentation, risk management, and product strategies.
 
