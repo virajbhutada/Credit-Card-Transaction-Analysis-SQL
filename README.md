@@ -164,6 +164,6 @@ If you have any questions, suggestions, or want to discuss potential collaborati
 
 
 
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada) [![Email](https://img.shields.io/badge/Email-virajbhutada%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:virajnbhutada24@gmail.com)**
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/) [![GitHub](https://img.shields.io/badge/GitHub-Viraj%20Bhutada-2b3137?logo=github)](https://github.com/virajbhutada) [![Email](https://img.shields.io/badge/Email-virajnbhutada24%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:virajnbhutada24@gmail.com)**
 
 
